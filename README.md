@@ -34,5 +34,4 @@ Ton objectif : rendre ce calcul **extensible** (OCP).
 
 ```text
 .
-├── index.html
 └── main.js
